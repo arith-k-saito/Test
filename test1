@@ -1,2 +1,6 @@
 test1
+<<<<<<< HEAD
 test5
+=======
+test6
+>>>>>>> master
